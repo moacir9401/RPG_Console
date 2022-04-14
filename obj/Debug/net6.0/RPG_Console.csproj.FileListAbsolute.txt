@@ -1,0 +1,15 @@
+E:\Projetos\RPG_Console\bin\Debug\net6.0\RPG_Console.exe
+E:\Projetos\RPG_Console\bin\Debug\net6.0\RPG_Console.deps.json
+E:\Projetos\RPG_Console\bin\Debug\net6.0\RPG_Console.runtimeconfig.json
+E:\Projetos\RPG_Console\bin\Debug\net6.0\RPG_Console.dll
+E:\Projetos\RPG_Console\bin\Debug\net6.0\ref\RPG_Console.dll
+E:\Projetos\RPG_Console\bin\Debug\net6.0\RPG_Console.pdb
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.csproj.AssemblyReference.cache
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.AssemblyInfoInputs.cache
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.AssemblyInfo.cs
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.csproj.CoreCompileInputs.cache
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.dll
+E:\Projetos\RPG_Console\obj\Debug\net6.0\ref\RPG_Console.dll
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.pdb
+E:\Projetos\RPG_Console\obj\Debug\net6.0\RPG_Console.genruntimeconfig.cache
