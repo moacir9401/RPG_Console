@@ -3,17 +3,32 @@
 Hero hero = new()
 {
     Name = "Arua",
-    Level = 23,
+    Level = 42,
     HeroType = "Knight"
 };
 
-Wizard wizard = new()
+Wizard wizardWhite = new()
 {
     Name = "Jennica",
     Level = 23,
     HeroType = "White Wizard"
 };
 
+Wizard wizardBlack = new()
+{
+    Name = "Topapa",
+    Level = 42,
+    HeroType = "Black Wizard"
+};
 
-Console.WriteLine(wizard.Attack(1));
-Console.WriteLine(wizard.Attack(7));
+Hero ninja = new()
+{
+    Name = "Wedge",
+    Level = 23,
+    HeroType = "Ninja"
+};
+
+Console.WriteLine(wizardWhite.Attack(1));
+Console.WriteLine(wizardWhite.Attack(7));
+Console.WriteLine(wizardBlack.Attack(7));
+Console.WriteLine(ninja.Attack());
